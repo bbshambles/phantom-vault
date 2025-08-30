@@ -64,6 +64,7 @@ flowchart TD
 	•	Step 3: Malicious/unknown queries → spawn ghost + shuffle field.
 	•	Step 4: Intruder sees only mirrored response.
 	•	Step 5: Attack collapses into glyph log for audit.
+
 ```
 ⸻
 
