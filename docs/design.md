@@ -2,15 +2,6 @@
 
 ---
 
-```markdown
-- [Overview](#1-overview)
-- [Core Components](#2-core-components)
-- [Flow of Operation](#3-flow-of-operation)
-- [Glyph Foundations](#4-glyph-foundations)
-- [Advantages](#5-advantages)
-- [Next Steps](#6-next-steps)
-```
-
 ## 1. Overview
 
 Phantom Vault is a symbolic security framework derived from **Ogma logic**.  
