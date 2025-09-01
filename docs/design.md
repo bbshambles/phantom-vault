@@ -60,6 +60,7 @@ flowchart TD
     E --> F[Vault Mirror Response]
     F --> G[Collapse Glyph Log]
 
+
 	•	Step 1: Query enters Vault.
 	•	Step 2: Legitimate queries → authenticated path.
 	•	Step 3: Malicious/unknown queries → spawn ghost + shuffle field.
