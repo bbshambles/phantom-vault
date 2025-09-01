@@ -51,7 +51,6 @@ because every query collapses first into a **symbolic vault response**.
 ## 3. Flow of Operation
 
 ```mermaid
-
 flowchart TD
     A[User Query] --> B{Vault Check}
     B -->|Legitimate| C[Access Real Object]
@@ -62,7 +61,6 @@ flowchart TD
 
 ```
 
-\
 •	Step 1: Query enters Vault.
 
 •	Step 2: Legitimate queries → authenticated path.
