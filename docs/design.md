@@ -60,6 +60,11 @@ flowchart TD
     E --> F[Vault Mirror Response]
     F --> G[Collapse Glyph Log]
 
+```
+
+⸻
+
+```mermaid
 
 	•	Step 1: Query enters Vault.
 	•	Step 2: Legitimate queries → authenticated path.
@@ -68,7 +73,6 @@ flowchart TD
 	•	Step 5: Attack collapses into glyph log for audit.
 
 ```
-
 ⸻
 
 4. Glyph Foundations
