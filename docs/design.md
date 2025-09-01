@@ -62,17 +62,13 @@ flowchart TD
 
 ```
 
-⸻
-
-```mermaid
-
+\
 	•	Step 1: Query enters Vault.
 	•	Step 2: Legitimate queries → authenticated path.
 	•	Step 3: Malicious/unknown queries → spawn ghost + shuffle field.
 	•	Step 4: Intruder sees only mirrored response.
 	•	Step 5: Attack collapses into glyph log for audit.
 
-```
 ⸻
 
 4. Glyph Foundations
